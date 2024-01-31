@@ -1,4 +1,6 @@
 
 ## Trello Clone
 
-Sonny Sangha's NextJs13 crash course
+Trello Clone built using NextJS 13.4
+
+
